@@ -1,0 +1,20 @@
+.body-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.body-content .description {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 110%;
+    color: #222222;
+    padding: 4% 12%;
+}
+
+.body-content .pictures {
+    max-width: 50%;
+    align-self: center;
+    padding: 5%;
+}
